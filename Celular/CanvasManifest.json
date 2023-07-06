@@ -94,7 +94,7 @@
       "useguiddatatypes": true,
       "usenonblockingonstartrule": true,
       "webbarcodescanner": false,
-      "zeroalltabindexes": true
+      "zeroalltabindexes": false
     },
     "Author": "",
     "BindingErrorCount": 0,
@@ -113,7 +113,7 @@
     "Id": "6dbc7159-cd8e-41f1-90ed-bded6735fffd",
     "InstrumentationKey": "",
     "LocalDatabaseReferences": "{}",
-    "ManualOfflineProfileId": null,
+    "ManualOfflineProfileId": "",
     "Name": "AplicativoP",
     "OriginatingVersion": "1.333",
     "ParserErrorCount": 0,
